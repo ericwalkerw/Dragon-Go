@@ -179,7 +179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720d6669195c55a42b7cf098eedde801, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startHealth: 3
+  startHealth: 10
   iFamesDuration: 1
   numberOfFlashes: 3
   components:
@@ -199,6 +199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce32927715a61ed4db5b41c8ca8ffa63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkpoint: {fileID: 0}
 --- !u!61 &8358399244932335753
 BoxCollider2D:
   m_ObjectHideFlags: 0

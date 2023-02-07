@@ -99,7 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5261a89e1769f6f4b8f81a85056df3bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 1
+  damage: 3
   activationDelay: 2
   activeTime: 2
   firetrapSound: {fileID: 8300000, guid: a7bae99d97eadf845bff27e19786a243, type: 3}

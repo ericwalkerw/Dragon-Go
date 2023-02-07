@@ -101,7 +101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementDistance: 3
   speed: 5
-  damage: 1
+  damage: 4
 --- !u!95 &1989711146033209841
 Animator:
   serializedVersion: 5

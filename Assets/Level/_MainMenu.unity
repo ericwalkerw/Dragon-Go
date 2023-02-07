@@ -6763,6 +6763,22 @@ PrefabInstance:
       propertyPath: currentCheckpoint
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 8358399244932335752, guid: b4dc5e146a2154b40a1bf6133b337f94, type: 3}
+      propertyPath: dashTime
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358399244932335752, guid: b4dc5e146a2154b40a1bf6133b337f94, type: 3}
+      propertyPath: dashspeed
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358399244932335752, guid: b4dc5e146a2154b40a1bf6133b337f94, type: 3}
+      propertyPath: dashCoolDown
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358399244932335752, guid: b4dc5e146a2154b40a1bf6133b337f94, type: 3}
+      propertyPath: distanceBetweenImage
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 8358399244932335754, guid: b4dc5e146a2154b40a1bf6133b337f94, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -6847,6 +6863,10 @@ PrefabInstance:
       propertyPath: fireballs.Array.data[9]
       value: 
       objectReference: {fileID: 1568783086}
+    - target: {fileID: 8358399244932335990, guid: b4dc5e146a2154b40a1bf6133b337f94, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8358399244932335991, guid: b4dc5e146a2154b40a1bf6133b337f94, type: 3}
       propertyPath: m_Name
       value: Player

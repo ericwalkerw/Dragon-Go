@@ -223,7 +223,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackcooldown: 1
   range: 13
-  damage: 1
+  damage: 3
   firepoint: {fileID: 2022852104223383622}
   fireballs:
   - {fileID: 4628272078752256561}

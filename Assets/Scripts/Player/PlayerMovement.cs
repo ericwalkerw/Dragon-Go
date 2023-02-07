@@ -17,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] private AudioClip jumpSound;
 
+
     private void Awake()
     {
         body = GetComponent<Rigidbody2D>();
@@ -46,6 +47,7 @@ public class PlayerMovement : MonoBehaviour
 
         SetAnim();
     }
+
     private void Jump()
     {
         SoundManager.instance.PlaySound(jumpSound);
